@@ -10,37 +10,14 @@
     }
 
     body {      
-      background: 
+      background:
         linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
         url("1.png")
         no-repeat center center fixed;
       background-size: contain;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      color: #fff;
-      font-family: "Segoe UI", Arial, sans-serif;
-      text-shadow: 0 2px 5px rgba(0,0,0,0.7);
-    }
-
-    .content {
-      text-align: center;
-    }
-
-    h1 {
-      font-size: 4rem;
-      margin-bottom: 1rem;
-    }
-
-    p {
-      font-size: 1.5rem;
     }
   </style>
 </head>
 <body>
-  <div class="content">
-    <h1>Tao đẹp trai</h1>
-    <p>Cây lấp</p>
-  </div>
 </body>
 </html>
